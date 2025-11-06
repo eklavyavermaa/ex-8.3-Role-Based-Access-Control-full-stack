@@ -1,0 +1,3 @@
+npm init -y
+npm install express jsonwebtoken bcryptjs dotenv
+npm install nodemon --save-dev
